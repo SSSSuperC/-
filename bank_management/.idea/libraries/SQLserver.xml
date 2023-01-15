@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="SQLserver">
+    <CLASSES>
+      <root url="jar://D:/BaiduNetdiskDownload/SQLserver/sqljdbc4.jar!/" />
+      <root url="jar://D:/BaiduNetdiskDownload/SQLserver/sqljdbc41.jar!/" />
+      <root url="jar://D:/BaiduNetdiskDownload/SQLserver/sqljdbc42.jar!/" />
+      <root url="file://D:/BaiduNetdiskDownload/SQLserver" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://D:/BaiduNetdiskDownload/SQLserver" recursive="false" />
+  </library>
+</component>
